@@ -5,8 +5,12 @@
     width: 90%;
     text-align: left;
     font-family: 'Inconsolata', monospace;
-  }
-  .col{
+}
+
+.col{
     color: rebeccapurple;
-  }
-  
+}
+
+body{
+  background-color: #FCF5C7;
+}
