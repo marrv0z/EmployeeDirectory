@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+.data-area {
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    font-family: 'Inconsolata', monospace;
+  }
+  .col{
+    color: rebeccapurple;
+  }
+  
